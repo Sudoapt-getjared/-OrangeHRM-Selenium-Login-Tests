@@ -5,7 +5,7 @@
 </p>
 
 ## Description
-This project automates the login functionality of the OrangeHRM web application using Python and the Selenium WebDriver. The script verifies that both an **Admin** account and a **Standard User** account can successfully authenticate, and it runs the same login flow across three browsers (Chrome, Edge, and Firefox) so the application's login behavior can be confirmed in each environment. The tests target the public OrangeHRM demo instance and report a clear PASS/FAIL result for every browser-and-account combination.
+This project automates the login functionality of the OrangeHRM web application using Python and the Selenium WebDriver. The script verifies that both an **Admin** account and a **Standard User** account can successfully authenticate, and it runs the same login flow across three browsers (Chrome, Edge, and Firefox) so the application's login behavior can be confirmed in each environment. The tests target the public OrangeHRM demo instance and report a clear Pass/Successful result for every browser-and-account combination.
 
 The suite is also wired into a GitHub Actions workflow so the cross-browser tests run automatically on every push and pull request, and it has been executed on a self-provisioned AWS EC2 instance set up specifically for testing.
 
@@ -15,6 +15,7 @@ The suite is also wired into a GitHub Actions workflow so the cross-browser test
 - GitHub Actions (CI workflow)
 
 ## Environments Used
+- Windows 11
 - Visual Studio Code (VS Code)
 - Google Chrome
 - Microsoft Edge
@@ -45,7 +46,7 @@ Edge - Admin and Standard User login: <br/>
 Firefox - Admin and Standard User login: <br/>
 <img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="Firefox login"/>
 <br /><br />
-Test results (PASS output in the terminal): <br/>
+Test results (Pass/Successful output in the terminal): <br/>
 <img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="Terminal results"/>
 <br /><br />
 GitHub Actions workflow run: <br/>
