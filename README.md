@@ -32,10 +32,10 @@ The suite is also wired into a GitHub Actions workflow so the cross-browser test
 
 <p align="center">
 Open the project in VS Code: <br/>
-<img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="Project open in VS Code"/>
+<img src="https://github.com/user-attachments/assets/fb6799bb-7149-46f6-ac9b-6e314ce4c34b" height="80%" width="80%" alt="Project open in VS Code"/>
 <br /><br />
 Run the login script: <br/>
-<img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="Running the script"/>
+<img src="https://github.com/user-attachments/assets/296acdb5-64cf-4aa1-961c-2810c4202b26" height="80%" width="80%" alt="Running the script"/>
 <br /><br />
 Chrome - Admin and Standard User login: <br/>
 <img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="Chrome login"/>
