@@ -38,10 +38,10 @@ Run the login script: <br/>
 <img src="https://github.com/user-attachments/assets/296acdb5-64cf-4aa1-961c-2810c4202b26" height="80%" width="80%" alt="Running the script"/>
 <br /><br />
 Chrome - Admin and Standard User login: <br/>
-<img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="Chrome login"/>
-<br /><br />
+  <img src="https://github.com/user-attachments/assets/8e6c5374-c19f-4299-9c5b-f4725b1b76d0" height="80%" width="80%" alt="Chrome login"/>
+  <br /><br />
 Edge - Admin and Standard User login: <br/>
-<img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="Edge login"/>
+  <img src="https://github.com/user-attachments/assets/4066c135-e471-4946-b4f6-897f0a13823e" height="80%" width="80%" alt="Edge login"/>
 <br /><br />
 Firefox - Admin and Standard User login: <br/>
 <img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="Firefox login"/>
@@ -50,7 +50,7 @@ Test results (Pass/Successful output in the terminal): <br/>
 <img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="Terminal results"/>
 <br /><br />
 GitHub Actions workflow run: <br/>
-<img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="GitHub Actions run"/>
+<img src="https://github.com/user-attachments/assets/807ba747-bd4b-428a-9ad2-c783f4be1b4a" height="80%" width="80%" alt="GitHub Actions run"/>
 <br /><br />
 Running on the AWS EC2 instance: <br/>
 <img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="AWS EC2 run"/>
