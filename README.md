@@ -53,7 +53,10 @@ GitHub Actions workflow run: <br/>
 <img src="https://github.com/user-attachments/assets/807ba747-bd4b-428a-9ad2-c783f4be1b4a" height="80%" width="80%" alt="GitHub Actions run"/>
 <br /><br />
 Running on the AWS EC2 instance: <br/>
-<img src="https://i.imgur.com/placeholder.png" height="80%" width="80%" alt="AWS EC2 run"/>
+  <img src="https://github.com/user-attachments/assets/1523f89a-d6f9-4e88-a9b3-7920fb30b2f6" height="80%" width="80%" alt="AWS EC2 run"/>
+  <br /><br />
+  EC2 instance running in the AWS console: <br/>
+  <img src="https://github.com/user-attachments/assets/30e47629-7374-48f2-a400-afafde97e9f8" height="80%" width="80%" alt="AWS EC2 console"/>
 </p>
 
 ## How to Run
